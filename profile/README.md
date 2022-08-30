@@ -4,9 +4,9 @@
   </h1>
 </div>
 
-Nei repository di questa organization potrete trovare (alcuni) algoritmi studiati nel corso di _Calcolo numerico 2020-2021_ del [dib](https://w3.uniba.it/ricerca/dipartimenti/informatica) (Dipartimento di informatica Uniba), ogni repo dispone, oltre all'algoritmo omonimo, di un ulteriore script per il test ed, infine, la documentazione (base) relativa al metodo in esame.
+In these organization you will be find some algorithm studied in _NC20-21 course_ from [dib](https://w3.uniba.it/ricerca/dipartimenti/informatica) (computer science department at Uniba), every repository has, in addition to homonym algorithm, a script for testing and method base documentation.
 
-## Esempio struttura generale dei repository
+## General structure of repository
 
 ```
 
@@ -19,5 +19,5 @@ Nei repository di questa organization potrete trovare (alcuni) algoritmi studiat
 
 ```
 ---
-## Linguaggio utilizzato 
+## Language used
 <p align="center"><a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="80" height="80"/> </a> </p>
